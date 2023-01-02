@@ -1,0 +1,4 @@
+,Unnamed: 0,Batch_ID,Batch_Year,Department_Name,List of Courses,List of Students
+0,0,B001,2018-2019,"['CSE', 'ECE', 'IT']","['Python Programming', 'Electronics and Communication Engg.', 'Internet of Things']","['Sanku Chakraborty','David Beckham', 'Ben Riley']"
+1,1,B002,2019-2020,"['CSE', 'ECE', 'IT']","['Python Programming', 'Electronics and Communication Engg.', 'Internet of Things']","['Jonty Rhodes', 'Geese Howard', 'Don Jon']"
+2,2,B003,2020-2021,"['CSE', 'ECE', 'IT']","['Python Programming', 'Electronics and Communication Engg.', 'Internet of Things']","['Jackson Storm', 'Kazuya Mishima', 'Old Boy']"
